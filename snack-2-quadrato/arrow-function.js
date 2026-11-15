@@ -1,3 +1,3 @@
 const quadrato = (num) => num * num;
 
-console.log(square(2));
+console.log(quadrato(2));
